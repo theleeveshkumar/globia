@@ -67,8 +67,6 @@
 ## 🌐 Live Demo
 https://globia-seven.vercel.app/
 
-[Explore Now »](#)
-
 ---
 
 ## 🙌 Acknowledgements
