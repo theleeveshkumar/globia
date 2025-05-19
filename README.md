@@ -38,8 +38,8 @@
 
 1. **Clone the repository:**
       ```bash
-      git clone https://github.com/your-username/country-explorer.git
-      cd country-explorer
+      git clone https://github.com/theleeveshkumar/globia.git
+      cd globia
       ```
 2. **Install dependencies:**
       ```bash
