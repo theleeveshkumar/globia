@@ -64,15 +64,8 @@
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of your app here to showcase its interface and features._
-
----
-
 ## 🌐 Live Demo
-
-_Replace the link below with your deployed project URL._
+https://globia-seven.vercel.app/
 
 [Explore Now »](#)
 
